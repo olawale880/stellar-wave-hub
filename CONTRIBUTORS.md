@@ -49,7 +49,7 @@ Replace `YOUR_GITHUB_USERNAME`, `Your Name`, `YOUR_X_HANDLE`, and the role/proje
   <a href="https://github.com/samieazubike"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" /></a>
   <a href="https://x.com/samabornoking"><img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=flat-square" alt="X" /></a>
   <br />
-  <sub>Maintainer — Stellar Wave Hub</sub>
+  <sub>Maintainer — Stellar Wave Hub, Researcher — SoroSusu Protocol</sub>
 </div>
 
 <div style="display:inline-block;width:130px;vertical-align:top;text-align:center;margin:8px">
