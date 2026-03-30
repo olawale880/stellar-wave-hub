@@ -52,6 +52,7 @@ Replace `YOUR_GITHUB_USERNAME`, `Your Name`, `YOUR_X_HANDLE`, and the role/proje
 ## Contributors List
 
 <!-- CONTRIBUTORS-START -->
+<div style="display:flex;flex-wrap:wrap;gap:8px;justify-content:center">
 
 <div style="display:inline-block;width:130px;vertical-align:top;text-align:center;margin:8px">
   <a href="https://github.com/samieazubike">
