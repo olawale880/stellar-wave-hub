@@ -14,11 +14,12 @@ BeEnergy is a verified participant in the Stellar Wave Program, focusing on dece
 
 ## Verifiable On-Chain IDs (Testnet)
 
-- **Energy Token Contract:** `CCYOVOFDQO7F4YRLF7P5Y7Y7Y7Y7Y7Y7Y7Y7Y7Y7Y7Y7Y7Y7Y7Y7Y7Y7` (Placeholder based on repository pattern)
-- **Distribution Contract:** `CBTDPLFNRNX2UDZ...`
-- **Governance Contract:** `CCH2EXXN...`
+- **Energy Token Contract:** `CCYOVOFDJ5BVBSI6HADLWETTUF3BU423MEAWBSBWV2X5UVNKSJMRPBA6`
+- **Distribution Contract:** `CBTDPLFNFGWVOD4HXDKW4EH5L3D2YGOY5CWTFCJM5TEWFL4VQTNX2UDZ`
+- **Governance Contract:** `CCH2EXXNNSDW2BAKBIPFAG6CCZS6LV4VJFUP2CZZCW5LEY4JOAXBJD6YI`
+- **Admin Account:** `GCHCYTHV4JSIJNCN56EIEXZNTB6JUHYX25FTSYFOM4DDVGV7UXWOHLCW`
 
-*Note: Actual full IDs are available in the repository's `docs/5-CONTRACTS.md`.*
+*Verification confirmed via `BuenDia-Builders/be-energy` docs/5-CONTRACTS.md.*
 
 ## Technical Architecture
 
@@ -30,6 +31,16 @@ At its technical core, BeEnergy utilizes a suite of Soroban smart contracts to m
 
 ## Submission Details
 
-- **Hub Endpoint:** `POST /api/projects`
-- **Category:** Infrastructure / Sustainability
-- **Tags:** `stellar-wave, soroban, energy, tokenization, governance, p2p`
+- **Hub Endpoint:** `https://usestellarwavehub.vercel.app/api/projects`
+- **Category:** `infrastructure`
+- **Tags:** `stellar-wave, soroban, energy, tokenization, governance, p2p, sustainability`
+- **Status:** SUBMITTED
+
+## Submission Confirmed
+
+Live API submission completed successfully on April 23, 2026.
+
+- **Hub Result:** Created project with `id: 67`, `slug: be-energy`, `status: submitted`
+- **Account:** ATHCornerstone
+- **Research Artifacts:** `be-energy-architecture.png` (Architecture Diagram)
+- **Verification:** On-chain IDs verified against `BuenDia-Builders/be-energy` docs.
